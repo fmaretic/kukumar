@@ -1,0 +1,25 @@
+{
+  "name": "kukumar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0-rc.0",
+    "cucumber": "^6.0.5"
+  },
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmaretic/kukumar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmaretic/kukumar/issues"
+  },
+  "homepage": "https://github.com/fmaretic/kukumar#readme"
+}
